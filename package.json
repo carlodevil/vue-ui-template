@@ -1,0 +1,11 @@
+{
+  "name": "@monorepo-template/ui",
+  "version": "1.0.0",
+  "description": "The UI library for monorepo-template",
+  "main": "src/index.js",
+  "author": "CG de Villiers",
+  "license": "MIT",
+  "scripts": {
+    "ui:add": "scripts/add.js"
+  }
+}

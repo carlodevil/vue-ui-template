@@ -1,0 +1,8 @@
+{
+  "name": "generic-title",
+  "version": "1.0.0",
+  "description": "A Generic Title for use in a demonstration.",
+  "main": "index.js",
+  "author": "CG de Villiers",
+  "license": "MIT"
+}
