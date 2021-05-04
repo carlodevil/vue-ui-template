@@ -1,7 +1,7 @@
 {
   "name": "@monorepo-template/ui",
   "version": "1.0.0",
-  "description": "The UI library for monorepo-template",
+  "description": "A Vue 3 UI library template with Storybook",
   "main": "src/index.js",
   "author": "CG de Villiers",
   "license": "MIT",
