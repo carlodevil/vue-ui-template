@@ -1,8 +1,0 @@
-{
-  "name": "test-button",
-  "version": "1.0.0",
-  "description": "A random button used for testing",
-  "main": "index.js",
-  "author": "CG de Villiers",
-  "license": "MIT"
-}
