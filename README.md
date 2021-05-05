@@ -1,7 +1,7 @@
 # vue-ui-template
 **A Vue 3 UI library template with Storybook and TailwindCSS.**
 
-Imports a min.tailwindcss package for css. Purging should be done in main project.
+Purging and template done in this library.
 
 ---
 
